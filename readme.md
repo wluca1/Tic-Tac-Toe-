@@ -22,6 +22,3 @@
         <li>A função <code>verifica()</code> é responsável por verificar se há um vencedor. Ela verifica se há três símbolos iguais na mesma linha, coluna ou diagonal.</li>
     </ul>
     <p>No <code>main()</code>, a matriz do jogo é inicializada e o tabuleiro é exibido. Em seguida, é feita uma iteração para alternar as jogadas do usuário e da máquina. A cada jogada, o tabuleiro é atualizado e é verificado se há um vencedor. Se houver um vencedor, a mensagem de vitória ou derrota é exibida e o jogo é encerrado. Se todas as jogadas foram feitas e não há vencedor, é exibida a mensagem de empate.</p>
-#� �T�i�c�-�T�a�c�-�T�o�e�-�
-�
-�

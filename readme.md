@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Jogo da Velha em C</title>
 </head>
 <body>
     <h1>Jogo da Velha em C</h1>
